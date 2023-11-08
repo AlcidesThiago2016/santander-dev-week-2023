@@ -1,4 +1,4 @@
-package me.dio.service;
+package me.dio.domain.service;
 
 import me.dio.domain.model.User;
 
